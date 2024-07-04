@@ -1,0 +1,8 @@
+//file:noinspection GroovyAssignabilityCheck
+plugins {
+    id 'java'
+}
+
+dependencies {
+    implementation libs.jackson.databind
+}

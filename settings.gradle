@@ -1,0 +1,14 @@
+//file:noinspection GroovyAssignabilityCheck
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+    }
+}
+
+dependencyResolutionManagement {
+    repositories {
+        mavenCentral()
+    }
+}
+
+rootProject.name = 'selsup-test-task'
